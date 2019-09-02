@@ -9,7 +9,7 @@ The organization is established by the following structural elements:
 
 ## Roles
 
-*Definition: Roles...*
+**Definition: Roles...**
 - have a purpose, that defines the reason for the existence of the role without mentioning it’s accountabilities. For example: The key master’s purpose is to ensure the distribution and overview of the keys of the SHC.
 - have defined accountabilities, that define their responsibility but as well the authority of the role. For example: the Facilitator organizes the meeting, but has also the authority to cancel it due to clear reasons.
 
@@ -22,7 +22,7 @@ There is no limit of assigned roles to one person, but the person has to be awar
 
 ## Teams
 
-*Definition: Teams have...*
+**Definition: Teams have...**
 - a purpose, that defines the reason for the existence without mentioning it’s accountabilities. For example: The purpose of the Digital Services team is to empower the SHC with digital tools that lead to a greater efficacy.
 - accountabilities, that define their responsibility but as well the authority. For example: the Digital Services team administrates the web server of the SHC, but has the authority to change it's configuration and even the host to ensure it will serve it's purpose and it's accountabilities.
 
