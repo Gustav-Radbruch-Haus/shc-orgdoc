@@ -1,0 +1,6 @@
+# Bar
+
+## Zweck
+
+
+## Zuständigkeiten
