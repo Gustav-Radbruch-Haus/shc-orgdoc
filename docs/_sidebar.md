@@ -3,4 +3,4 @@
 - [Organization](organization.md)
 
 - Teams
-  - [Digital Services](team.md)
+  - [Digital Services](en/digital-services/team.md)
