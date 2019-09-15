@@ -1,4 +1,4 @@
-# Organisation
+# Gliederung
 
 Der Heimrat besteht strukturell aus den folgenden Entitäten:
 
