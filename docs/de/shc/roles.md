@@ -28,3 +28,6 @@ Heimrat-Meetings satzungskonform leiten.
 ## Secretary
 ### Sinn und Zweck
 ### Verantwortlichkeiten
+## Schlüsselwart
+### Sinn und Zweck
+### Verantwortlichkeiten
