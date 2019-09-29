@@ -21,7 +21,7 @@ Es gibt keine Begrenzung, wie viele Rollen eine Person besetzen kann, aber die P
 ## Teams
 
 **Definition: Teams haben....**
-- ein Zweck, der den Grund für die Existenz des Teams definiert, ohne seine Verantwortlichkeiten zu erwähnen. Zum Beispiel: Der Zweck des *Digital Services*-Teams ist es, den Heimrat mit digitalen Tools zu unterstützen, die zu einer höheren Effektivität aller führen.
+- ein Sinn und Zweck, der den Grund für die Existenz des Teams definiert, ohne seine Verantwortlichkeiten zu erwähnen. Zum Beispiel: Der Zweck des *Digital Services*-Teams ist es, den Heimrat mit digitalen Tools zu unterstützen, die zu einer höheren Effektivität aller führen.
 - Verantwortlichkeiten, die ihre Verantwortung, aber auch die Autorität definieren. Zum Beispiel: Das Digital Services-Team verwaltet den Webserver des Heimrats, hat aber die Berechtigung, seine Konfiguration und sogar den Anbieter zu ändern, um seine Zweckdienlichkeit sicherzustellen.
 
 Der Heimrat ist selbst ein Team. Um ein Team zu bilden, muss ein Team die notwendige Definition erfüllen. Teams haben die Berechtigung, Rollen innerhalb des Teams zu erstellen und zuzuweisen, um eine autonome Anpassungsfähigkeit ohne Abhängigkeiten zu erreichen.
