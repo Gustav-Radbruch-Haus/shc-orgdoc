@@ -1,6 +1,9 @@
 - [Home](/)
 
 - [Organization](organization.md)
+- [Roles](roles.md)
 
 - Teams
-  - [Digital Services](en/digital-services/team.md)
+  - Heimrat
+    - [Roles](shc/roles.md)
+  - [Digital Services](digital-services/team.md)
