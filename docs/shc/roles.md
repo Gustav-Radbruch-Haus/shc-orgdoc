@@ -14,3 +14,16 @@ Govern student housing council meetings and aligned with the constitution
 - Organizes the meeting agenda
 - Prepares the agenda overview for the meeting
 - Works together with secretary and assembly manager to organize the meeting and the necessary material for facilitation
+
+## Chairperson
+### Purpose
+### Accountabilities
+## Treasurer
+### Purpose
+### Accountabilities
+## Cash auditor
+### Purpose
+### Accountabilities
+## Secretary
+### Purpose
+### Accountabilities

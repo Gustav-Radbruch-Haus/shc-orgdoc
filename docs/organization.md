@@ -11,11 +11,17 @@ The organization is established by the following structural elements:
 - have a purpose, that defines the reason for the existence of the role without mentioning it’s accountabilities. For example: The key master’s purpose is to ensure the distribution and overview of the keys of the SHC.
 - have defined accountabilities, that define their responsibility but as well the authority of the role. For example: the Facilitator organizes the meeting, but has also the authority to cancel it due to clear reasons.
 
-
 Every voted member of the SHC can have multiple roles but has to have at least one to be part of the SHC.
 If a member of the SHC does not have a role, the person loses the membership.
-Roles have to be assigned in the very first meeting of the SHC but can change and switched to fulfil the SHCs purpose.
+The following roles have to be assigned in the very first SHC meeting by voting:
+- Chairperson
+- Treasurer
+- Cash auditor
+- Facilitator
+- Secretary
 
+All other roles have to be assigned inside the teams. The assignment can change and switched to fulfil the SHCs purpose.
+Roles can be assigned to persons outside of the SHC, as long as the SHC trusts these persons.
 There is no limit of assigned roles to one person, but the person has to be aware that the person takes all responsibility that comes in sum with all roles.
 
 ## Teams

@@ -14,3 +14,17 @@ Heimrat-Meetings satzungskonform leiten.
 - Organisiert die Meeting-Agendas
 - Bereitet eine Agendaübersicht für das Meeting vor
 - Arbeitet zusammen mit dem Secretary und dem Assembly Manager, um die Meetings und das notwendige Material dafür zu organisieren.
+
+
+## Vorstandsvorsitzender
+### Sinn und Zweck
+### Verantwortlichkeiten
+## Kassenwart
+### Sinn und Zweck
+### Verantwortlichkeiten
+## Kassenprüfer
+### Sinn und Zweck
+### Verantwortlichkeiten
+## Secretary
+### Sinn und Zweck
+### Verantwortlichkeiten
