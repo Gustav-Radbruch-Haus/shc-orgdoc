@@ -9,13 +9,12 @@ Enables the team to fulfil it's purpose inside the team and inside the student h
 
 ### Accountabilities
 - Being the point of contact for other teams, roles and persons inside and outside of the SHC for questions and requests
-- Representing the team in the student housing council meetings
-- Establishing priorities and Strategies for the team
+- Represents the team in the student housing council meetings
+- Establishes priorities and Strategies for the team
 - Enabling the team to work (by e.g. organizing what the team needs, creating roles, perform changes)
-- Organizing regularly team synchronization meetings to enact the team's Purpose and Accountabilities
-- Assigning Roles to team members; monitoring the fit; offering feedback to
-enhance fit; and re-assigning Roles to other team members when useful for enhancing fit
-- Establishing the autonomy of the team by removing constraints within the student housing council that limit the team and by removing constraints within the team to the student housing council
+- Organizes regularly team synchronization meetings
+- Assigns Roles to team members; monitoring the fit; offering feedback to enhance fit; and re-assigning Roles to other team members when useful for enhancing fit
+- Ensures the autonomy of the team by removing constraints within the student housing council that limit the team and by removing constraints within the team to the student housing council
 
 ## Facilitator
 
