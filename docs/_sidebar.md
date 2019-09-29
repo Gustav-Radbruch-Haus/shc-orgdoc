@@ -1,9 +1,9 @@
 - [Home](/)
 
 - [Organization](organization.md)
-- [Roles](roles.md)
 
 - Teams
-  - Heimrat
+  - Student Housing Council
     - [Roles](shc/roles.md)
   - [Digital Services](digital-services/team.md)
+- [Bar (Club Gustav)](bar/team.md)
