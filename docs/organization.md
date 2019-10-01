@@ -13,14 +13,7 @@ The organization is established by the following structural elements:
 
 Every voted member of the SHC can have multiple roles but has to have at least one to be part of the SHC.
 If a member of the SHC does not have a role, the person loses the membership.
-The following roles have to be assigned in the very first SHC meeting by voting:
-- Chairperson
-- Treasurer
-- Cash auditor
-- Facilitator
-- Secretary
-
-All other roles have to be assigned inside the teams. The assignment can change and switched to fulfil the SHCs purpose.
+Roles have to be assigned in the very first meeting of the SHC but can change and switched to fulfil the SHCs purpose. The assignment can change and switched to fulfil the SHCs purpose. Roles **in a project** can be assigned to persons outside of the SHC, as long as the SHC trusts these persons.
 Roles can be assigned to persons outside of the SHC, as long as the SHC trusts these persons.
 There is no limit of assigned roles to one person, but the person has to be aware that the person takes all responsibility that comes in sum with all roles.
 
