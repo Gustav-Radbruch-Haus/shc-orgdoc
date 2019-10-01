@@ -14,8 +14,7 @@ Der Heimrat besteht strukturell aus den folgenden Entitäten:
 
 Jedes gewählte Mitglied des Heimrat kann mehrere Rollen haben, muss aber mindestens eine ausfüllen, um Teil des Heimrat zu sein.
 Wenn ein Mitglied des Heimrat keine Rolle hat, verliert die Person die Mitgliedschaft.
-Rollen müssen in der ersten Sitzung des Heimrats zugewiesen werden, können aber geändert und gewechselt werden, um den Zweck des Heimrats zu erfüllen.
-
+Rollen müssen in der ersten Sitzung des Heimrats zugewiesen werden, können aber geändert und gewechselt werden, um den Zweck des Heimrats zu erfüllen. Die Zuweisungen können verändert und angepasst werden, um den Sinn und Zweck des Heimrats gerecht zu werden. Rollen innerhalb eines Projektes können Personen außerhalb des Heimrats zugewiesen werden, sofern der Heimrat diesen Personen vertraut.
 Es gibt keine Begrenzung, wie viele Rollen eine Person besetzen kann, aber die Person muss sich bewusst sein, dass sie die Verantwortungen jeder einzelnen Rolle übernimmt.
 
 ## Teams
