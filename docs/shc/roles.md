@@ -45,3 +45,4 @@ Govern student housing council meetings and aligned with the constitution
 ## Key Master
 ### Purpose
 ### Accountabilities
+## Rental Manager
