@@ -45,6 +45,7 @@ Heimrat-Meetings satzungskonform leiten.
 - Deligiert Aufgaben an die Heimrats-Mitglieder
 - Plant und organisiert Projekte
 - Bewahrt und stellt den ordentlichen Geschäftsbetrieb nach Satzung sicher
+- Als einzige_r Unterschriftenberechtigt
 
 ## Geschäftsvorstand
 
@@ -93,6 +94,7 @@ Macht Entscheidungen und Gespräche innerhalb der Heimratssitzungen für die Öf
 - Protokolliert die Heimratssitzungen auf Englisch
 - Verwaltet die Protokolle in der Cloud
 - Stellt die Protokolle digital (in der Cloud), als auch ausgedruckt ausgehängt zur Verfügung.
+- Mindestens eine_r muss jede Sitzung anwesend sein
 
 ## Schlüsselwart
 
@@ -164,7 +166,7 @@ Fahrer und zentrale Rolle für Einkäufe.
 ### Verantwortlichkeiten
 - Kauft die vom Heimrat autorisierten Sachen (vorzugsweise online) ein
 - Meldet die neuen Beschaffungen dem/der Inventurmanager_in
-- Mietet bei Bedarf Leihwagen (auf Kosten des Heimrats)
+- Mietet bei Bedarf Leihwagen (auf Kosten des Heimrats), eigenes Auto wird bevorzugt (und entschädigt)
 
 ## Design
 
@@ -188,7 +190,7 @@ Sorgt für Wiederverwertbarkeit von Prozessen und Formularen.
 - Sorgt für Ordnung in der Cloud und auf dem Computer des Heimrats
 
 ## Human Resources
-!> Empfehlung: Umbenennung in Feel Good Role
+!> Übernimmt auch die Aufgaben des Sozialtutoriums
 
 ### Sinn und Zweck
 Fördert den Zusammenhalt des Heimrats.
@@ -200,6 +202,7 @@ Fördert den Zusammenhalt des Heimrats.
 - Aktiviert inaktive Mitglieder
 - Arbeitet Ideen für Geburtstage aus
 - Veranstaltet Events zur Förderung des Zusammenhalts
+- Steht den Bewohnern bei Konflikten und Fragen neben den Protektoren zur Seite
 
 ## Entertainment Manager_in
 
@@ -223,7 +226,7 @@ Prüforgan des Heimrats
 ## Communication
 
 ### Sinn und Zweck
-Auftritt des Heimrats und dessen Events.
+Auftritt des Heimrats und dessen Events in Social Media und Website.
 
 ### Verantwortlichkeiten
 - Bewirbt den Heimrat und dessen Events
@@ -231,6 +234,8 @@ Auftritt des Heimrats und dessen Events.
 - Stellt eine hohe Sicherheit der Accounts sicher
 
 ## Kreativwerkstatt_manager
-!> Empfehlung: Auflösen der Rolle
 ### Sinn und Zweck
+Stellt die Kunst- und Kreativwerkstatt des Hauses den Bewohnern bei Bedarf zur Verfügung
 ### Verantwortlichkeiten
+- Achtet auf eine ordentliche Räumlichkeiten
+- Bietet den (Kunst-)Studierenden die Möglichkeit ihre Projekte im Haus zu kreieren
